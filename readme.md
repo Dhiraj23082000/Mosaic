@@ -10,7 +10,7 @@ All the other code (for eg. the one you used to preprocess the data, prepare and
 
 # Testing
 
-Based on your character set the coordinators will give examples in a format similar to that in **test** function of the submission.py. Final score and the images used will be decided by the coordinators and communicated to the participants. The decision of the coordinators will be final.
+Based on your character set the coordinators will give examples in a format similar to that in **test** function of the submission.py. For all the testing images the black captcha will be written against white background. Final score and the images used will be decided by the coordinators and communicated to the participants. The decision of the coordinators will be final.
 
 # Google Form
 
