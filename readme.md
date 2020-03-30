@@ -14,4 +14,4 @@ Based on your character set the coordinators will give examples in a format simi
 
 # Google Form
 
-Fill this google form to submit your solution. Valid submissions need google drive link for the whole code.
+Fill this [google form](https://forms.gle/Dxz32Qf6wFfe3ox36) to submit your solution. Valid submissions need google drive link for the whole code.
